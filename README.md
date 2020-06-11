@@ -1,2 +1,2 @@
 # My-projects
-My small but rememberable projects.
+My small c++ projects
